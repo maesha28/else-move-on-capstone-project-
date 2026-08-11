@@ -1,0 +1,5 @@
+Name: maesha | Score: 81/100 | Result: RUN
+Name: labiba | Score: 22/100 | Result: PROCEED CAREFULLY
+Name: raya | Score: 0/100 | Result: GREEN FLAG
+Name: Raisa | Score: 13/100 | Result: GREEN FLAG
+Name: maesha | Score: 13/100 | Result: GREEN FLAG
